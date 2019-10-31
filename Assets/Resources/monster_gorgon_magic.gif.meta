@@ -1,0 +1,3025 @@
+fileFormatVersion: 2
+guid: 243c109dc90973043a264616ce498e00
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monster_gorgon_magic_0
+    21300002: monster_gorgon_magic_1
+    21300004: monster_gorgon_magic_2
+    21300006: monster_gorgon_magic_3
+    21300008: monster_gorgon_magic_4
+    21300010: monster_gorgon_magic_5
+    21300012: monster_gorgon_magic_6
+    21300014: monster_gorgon_magic_7
+    21300016: monster_gorgon_magic_8
+    21300018: monster_gorgon_magic_9
+    21300020: monster_gorgon_magic_10
+    21300022: monster_gorgon_magic_11
+    21300024: monster_gorgon_magic_12
+    21300026: monster_gorgon_magic_13
+    21300028: monster_gorgon_magic_14
+    21300030: monster_gorgon_magic_15
+    21300032: monster_gorgon_magic_16
+    21300034: monster_gorgon_magic_17
+    21300036: monster_gorgon_magic_18
+    21300038: monster_gorgon_magic_19
+    21300040: monster_gorgon_magic_20
+    21300042: monster_gorgon_magic_21
+    21300044: monster_gorgon_magic_22
+    21300046: monster_gorgon_magic_23
+    21300048: monster_gorgon_magic_24
+    21300050: monster_gorgon_magic_25
+    21300052: monster_gorgon_magic_26
+    21300054: monster_gorgon_magic_27
+    21300056: monster_gorgon_magic_28
+    21300058: monster_gorgon_magic_29
+    21300060: monster_gorgon_magic_30
+    21300062: monster_gorgon_magic_31
+    21300064: monster_gorgon_magic_32
+    21300066: monster_gorgon_magic_33
+    21300068: monster_gorgon_magic_34
+    21300070: monster_gorgon_magic_35
+    21300072: monster_gorgon_magic_36
+    21300074: monster_gorgon_magic_37
+    21300076: monster_gorgon_magic_38
+    21300078: monster_gorgon_magic_39
+    21300080: monster_gorgon_magic_40
+    21300082: monster_gorgon_magic_41
+    21300084: monster_gorgon_magic_42
+    21300086: monster_gorgon_magic_43
+    21300088: monster_gorgon_magic_44
+    21300090: monster_gorgon_magic_45
+    21300092: monster_gorgon_magic_46
+    21300094: monster_gorgon_magic_47
+    21300096: monster_gorgon_magic_48
+    21300098: monster_gorgon_magic_49
+    21300100: monster_gorgon_magic_50
+    21300102: monster_gorgon_magic_51
+    21300104: monster_gorgon_magic_52
+    21300106: monster_gorgon_magic_53
+    21300108: monster_gorgon_magic_54
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster_gorgon_magic_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 422
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9247112675f74c4a91f11efa35001f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 422
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cacf3c58d8881944b5df0e520dc3fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b6ede39cb58a4e90fd7f4d26c5717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31b539f0f1e65d44b36740846ac064c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 422
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cfded4c33732141bf1530736ea2d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 422
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10fe7eb77515d4bbdb937af9062221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 422
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24080eecf06f34c927e725358b1690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa62bf8bf391cc4b8e4b51385a5f95f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d1431323aa07449739020c093e46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 361
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fab899709622e46a73a61e51c5c325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 361
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ec815b7d219045af728d6f1683adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 360
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa18c549095f04245ba7f7d00ecd4f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 361
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acc18f398999e4aad7413400139e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959fa867bcf1c084b938cd914bbb4cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c475f3f5bc6e4db5f96dbb72b64cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 360
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c351bfb2ee81fb34bbeaff7ba42b0d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 360
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2effc19bb3a23534e9326f1d233ab258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 388
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aedfbe1f71a6042b3feb3bbc808730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 359
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d127b574179b43acaf4a540044c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 360
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a51163921d9c498aa5aa61ff620b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d54996cb71dce44b1eceaf39f60d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 300
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea96bb38e55914f96f01f924e5244f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 301
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6785575c27652c46b86a5de98d6b9a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 300
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9662864d52a8e894283d6410919b5a87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 300
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6727e1dfd60dd684586150209b28cf34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa23f25f533bc4aa5093aae54db8bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 300
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a3fc781a1d15846a890d209afe6070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 300
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53b05c13fb8b945b3c4bff3f863b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 330
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d6a5a9530eb54f8193d5203d2252f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 300
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3176393333df4bb977e6e1e2bfe38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e150759c19563946ae50b5ee0e1094f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 239
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b248a97fd3382a49b1b049623fb98ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 238
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5c39ab96c23842a9909a401019d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 238
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2edd64f8a8cf499d4ca99d9691000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 238
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0549806b69f9d4eb859b555b608171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 240
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d7cb23a5940ce4dbe49702ff33efcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c8809799ea9349993ef7ef65bd23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 242
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a4b9cc7ebe9a54dae35aa12ac72714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d413e9e18368348864e2db1b0f66e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_39
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 176
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6befa426ec8e4a4eb2f6ef98a8076da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 199
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ac3c4fe3547949b4f4c133fa4dc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 198
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447fb08158d570444b3e22cb2677a953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 197
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed601abb752004b8229a574b1e99d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 197
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee929a9bf1435942ab8705234d39f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 130
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be65af0e7fded4382a4b89506308ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 133
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485be315d6da204c8bb94da5555f75d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 134
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2278f55afb342428dc453d0ec076f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 136
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3439300fdcc3a41bc39f3d7eb9899b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 68
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe3afbca0b7ab468e1a6f0495bac54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 68
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d4e73fd6fac845b50baab140eda6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 72
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d2633b413cc64da5ee87e143825ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 74
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5711192a71ce7b4f9b8a427cead21bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_52
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 76
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778652e5220dea4dbc4e7db2ce46735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae73fe4650bb4845b8f76f01bc7f90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 14
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81621e9b7794023418a367d1dcb3eede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 165, y: -174}
+      - {x: 162, y: -177}
+      - {x: 137, y: -199}
+      - {x: 136, y: -206}
+      - {x: 136, y: -230}
+      - {x: 185, y: -230}
+      - {x: 188, y: -220}
+      - {x: 188, y: -175}
+      - {x: 184, y: -174}
+    - - {x: 217, y: -174}
+      - {x: 210, y: -179}
+      - {x: 194, y: -194}
+      - {x: 194, y: -228}
+      - {x: 242, y: -228}
+      - {x: 242, y: -174}
+    - - {x: 8, y: -134}
+      - {x: 2, y: -114}
+      - {x: -30, y: -114}
+      - {x: -34, y: -136}
+      - {x: -34, y: -174}
+      - {x: 1, y: -174}
+      - {x: 17, y: -171}
+      - {x: 19, y: -162}
+      - {x: 19, y: -145}
+      - {x: 8, y: -142}
+    - - {x: 45, y: -115}
+      - {x: 33, y: -118}
+      - {x: 24, y: -136}
+      - {x: 24, y: -174}
+      - {x: 58, y: -174}
+      - {x: 75, y: -172}
+      - {x: 75, y: -131}
+      - {x: 65, y: -115}
+    - - {x: 130, y: -141}
+      - {x: 126, y: -144}
+      - {x: 119, y: -115}
+      - {x: 117, y: -110}
+      - {x: 94, y: -110}
+      - {x: 82, y: -112}
+      - {x: 82, y: -170}
+      - {x: 128, y: -170}
+      - {x: 134, y: -162}
+      - {x: 134, y: -140}
+      - {x: 133, y: -140}
+    - - {x: 145, y: -112}
+      - {x: 137, y: -123}
+      - {x: 137, y: -168}
+      - {x: 187, y: -168}
+      - {x: 188, y: -164}
+      - {x: 188, y: -112}
+    - - {x: 234, y: -140}
+      - {x: 238, y: -133}
+      - {x: 244, y: -128}
+      - {x: 244, y: -112}
+      - {x: 207, y: -112}
+      - {x: 193, y: -127}
+      - {x: 193, y: -144}
+      - {x: 198, y: -147}
+      - {x: 195, y: -161}
+      - {x: 194, y: -166}
+      - {x: 244, y: -166}
+      - {x: 244, y: -136}
+      - {x: 237, y: -135}
+    - - {x: 16, y: -56}
+      - {x: 9, y: -69}
+      - {x: 9, y: -112}
+      - {x: 58, y: -112}
+      - {x: 58, y: -60}
+      - {x: 56, y: -56}
+    - - {x: 99, y: -49}
+      - {x: 92, y: -49}
+      - {x: 90, y: -52}
+      - {x: 81, y: -56}
+      - {x: 76, y: -63}
+      - {x: 77, y: -67}
+      - {x: 82, y: -72}
+      - {x: 84, y: -72}
+      - {x: 83, y: -72}
+      - {x: 78, y: -70}
+      - {x: 72, y: -70}
+      - {x: 63, y: -73}
+      - {x: 62, y: -74}
+      - {x: 62, y: -93}
+      - {x: 72, y: -109}
+      - {x: 107, y: -109}
+      - {x: 115, y: -106}
+      - {x: 115, y: -77}
+      - {x: 103, y: -50}
+    - - {x: 178, y: -71}
+      - {x: 164, y: -48}
+      - {x: 129, y: -48}
+      - {x: 119, y: -58}
+      - {x: 119, y: -108}
+      - {x: 177, y: -108}
+      - {x: 177, y: -104}
+      - {x: 178, y: -83}
+    - - {x: 205, y: -47}
+      - {x: 180, y: -61}
+      - {x: 180, y: -83}
+      - {x: 188, y: -86}
+      - {x: 190, y: -101}
+      - {x: 202, y: -106}
+      - {x: 231, y: -106}
+      - {x: 243, y: -104}
+      - {x: 247, y: -94}
+      - {x: 247, y: -78}
+      - {x: 227, y: -47}
+    - - {x: -175, y: -9}
+      - {x: -195, y: -20}
+      - {x: -195, y: -50}
+      - {x: -186, y: -68}
+      - {x: -132, y: -68}
+      - {x: -132, y: -21}
+      - {x: -144, y: -9}
+    - - {x: -52, y: -60}
+      - {x: -55, y: -57}
+      - {x: -72, y: -57}
+      - {x: -54, y: -57}
+      - {x: -51, y: -56}
+      - {x: -47, y: -55}
+      - {x: -47, y: -38}
+      - {x: -67, y: -7}
+      - {x: -123, y: -7}
+      - {x: -130, y: -9}
+      - {x: -130, y: -54}
+      - {x: -118, y: -65}
+      - {x: -105, y: -66}
+      - {x: -80, y: -66}
+      - {x: -60, y: -64}
+      - {x: -54, y: -63}
+      - {x: -52, y: -61}
+    - - {x: 110, y: -45}
+      - {x: 176, y: -45}
+      - {x: 176, y: -10}
+      - {x: 174, y: -5}
+      - {x: 140, y: -5}
+      - {x: 116, y: -21}
+      - {x: 110, y: -34}
+    - - {x: 211, y: -5}
+      - {x: 184, y: -21}
+      - {x: 178, y: -34}
+      - {x: 178, y: -45}
+      - {x: 240, y: -45}
+      - {x: 248, y: -44}
+      - {x: 248, y: -5}
+    - - {x: 89, y: -35}
+      - {x: 96, y: -35}
+      - {x: 99, y: -34}
+      - {x: 103, y: -29}
+      - {x: 103, y: -22}
+      - {x: 87, y: -11}
+      - {x: 63, y: -11}
+      - {x: 42, y: -19}
+      - {x: 38, y: -32}
+      - {x: 38, y: -43}
+      - {x: 41, y: -44}
+      - {x: 70, y: -44}
+      - {x: 96, y: -42}
+      - {x: 98, y: -37}
+      - {x: 94, y: -35}
+    - - {x: 35, y: -20}
+      - {x: 29, y: -13}
+      - {x: 16, y: -10}
+      - {x: -6, y: -10}
+      - {x: -18, y: -13}
+      - {x: -34, y: -25}
+      - {x: -34, y: -43}
+      - {x: 18, y: -43}
+      - {x: 28, y: -40}
+      - {x: 35, y: -31}
+    - - {x: -15, y: 26}
+      - {x: -19, y: 22}
+      - {x: -20, y: 19}
+      - {x: -24, y: 19}
+      - {x: -22, y: 19}
+      - {x: -16, y: 27}
+      - {x: -8, y: 27}
+      - {x: -8, y: 31}
+      - {x: -11, y: 51}
+      - {x: -30, y: 51}
+      - {x: -46, y: 47}
+      - {x: -53, y: 22}
+      - {x: -57, y: 2}
+      - {x: -57, y: -4}
+      - {x: -8, y: -4}
+      - {x: -8, y: 22}
+      - {x: -12, y: 27}
+    - - {x: -6, y: 52}
+      - {x: -6, y: -4}
+      - {x: 46, y: -4}
+      - {x: 50, y: -3}
+      - {x: 54, y: 3}
+      - {x: 54, y: 52}
+    - - {x: 79, y: 52}
+      - {x: 63, y: 44}
+      - {x: 57, y: 36}
+      - {x: 57, y: 27}
+      - {x: 62, y: 18}
+      - {x: 66, y: 18}
+      - {x: 67, y: 1}
+      - {x: 68, y: -2}
+      - {x: 75, y: -4}
+      - {x: 99, y: -4}
+      - {x: 115, y: -3}
+      - {x: 119, y: 3}
+      - {x: 119, y: 51}
+      - {x: 118, y: 52}
+    - - {x: -70, y: 27}
+      - {x: -74, y: 23}
+      - {x: -71, y: 26}
+      - {x: -63, y: 43}
+      - {x: -62, y: 45}
+      - {x: -62, y: 48}
+      - {x: -68, y: 55}
+      - {x: -82, y: 55}
+      - {x: -110, y: 37}
+      - {x: -110, y: 26}
+      - {x: -103, y: 18}
+      - {x: -95, y: 20}
+      - {x: -91, y: 23}
+      - {x: -87, y: 24}
+      - {x: -97, y: 19}
+      - {x: -103, y: 13}
+      - {x: -110, y: 3}
+      - {x: -110, y: -3}
+      - {x: -62, y: -3}
+      - {x: -62, y: 19}
+      - {x: -66, y: 30}
+    - - {x: -138, y: 51}
+      - {x: -169, y: 51}
+      - {x: -191, y: 46}
+      - {x: -195, y: 42}
+      - {x: -195, y: 7}
+      - {x: -185, y: -2}
+      - {x: -140, y: -2}
+      - {x: -123, y: 1}
+      - {x: -114, y: 12}
+      - {x: -114, y: 38}
+    - - {x: 170, y: 27}
+      - {x: 168, y: 27}
+      - {x: 166, y: 25}
+      - {x: 163, y: 21}
+      - {x: 164, y: 26}
+      - {x: 168, y: 27}
+      - {x: 177, y: 30}
+      - {x: 181, y: 35}
+      - {x: 181, y: 56}
+      - {x: 150, y: 56}
+      - {x: 124, y: 46}
+      - {x: 124, y: -2}
+      - {x: 178, y: -2}
+      - {x: 181, y: 2}
+      - {x: 181, y: 14}
+      - {x: 180, y: 19}
+    - - {x: 236, y: 30}
+      - {x: 230, y: 24}
+      - {x: 234, y: 29}
+      - {x: 244, y: 38}
+      - {x: 244, y: 44}
+      - {x: 243, y: 49}
+      - {x: 235, y: 55}
+      - {x: 221, y: 55}
+      - {x: 216, y: 54}
+      - {x: 211, y: 49}
+      - {x: 210, y: 46}
+      - {x: 210, y: 42}
+      - {x: 210, y: 44}
+      - {x: 207, y: 53}
+      - {x: 186, y: 51}
+      - {x: 186, y: 0}
+      - {x: 236, y: 0}
+      - {x: 244, y: 3}
+      - {x: 244, y: 22}
+      - {x: 239, y: 30}
+    - - {x: -172, y: 88}
+      - {x: -176, y: 84}
+      - {x: -175, y: 89}
+      - {x: -172, y: 102}
+      - {x: -174, y: 106}
+      - {x: -178, y: 112}
+      - {x: -186, y: 112}
+      - {x: -203, y: 110}
+      - {x: -209, y: 104}
+      - {x: -221, y: 101}
+      - {x: -226, y: 99}
+      - {x: -226, y: 61}
+      - {x: -221, y: 58}
+      - {x: -169, y: 58}
+      - {x: -168, y: 62}
+      - {x: -168, y: 88}
+      - {x: -169, y: 89}
+    - - {x: -114, y: 88}
+      - {x: -118, y: 84}
+      - {x: -115, y: 87}
+      - {x: -107, y: 104}
+      - {x: -106, y: 108}
+      - {x: -112, y: 116}
+      - {x: -123, y: 116}
+      - {x: -155, y: 108}
+      - {x: -164, y: 96}
+      - {x: -165, y: 87}
+      - {x: -165, y: 83}
+      - {x: -162, y: 81}
+      - {x: -139, y: 81}
+      - {x: -135, y: 84}
+      - {x: -131, y: 85}
+      - {x: -141, y: 80}
+      - {x: -145, y: 76}
+      - {x: -155, y: 63}
+      - {x: -154, y: 58}
+      - {x: -106, y: 58}
+      - {x: -106, y: 80}
+      - {x: -110, y: 91}
+    - - {x: 4, y: 107}
+      - {x: 7, y: 111}
+      - {x: 8, y: 116}
+      - {x: 4, y: 118}
+      - {x: -26, y: 118}
+      - {x: -37, y: 117}
+      - {x: -37, y: 58}
+      - {x: 11, y: 58}
+      - {x: 11, y: 110}
+      - {x: 7, y: 110}
+    - - {x: 59, y: 87}
+      - {x: 57, y: 87}
+      - {x: 55, y: 85}
+      - {x: 52, y: 81}
+      - {x: 53, y: 86}
+      - {x: 57, y: 87}
+      - {x: 66, y: 90}
+      - {x: 70, y: 95}
+      - {x: 70, y: 116}
+      - {x: 50, y: 116}
+      - {x: 33, y: 105}
+      - {x: 21, y: 87}
+      - {x: 21, y: 58}
+      - {x: 68, y: 58}
+      - {x: 70, y: 61}
+      - {x: 70, y: 77}
+      - {x: 69, y: 79}
+    - - {x: 118, y: 87}
+      - {x: 116, y: 87}
+      - {x: 114, y: 85}
+      - {x: 111, y: 81}
+      - {x: 112, y: 86}
+      - {x: 116, y: 87}
+      - {x: 125, y: 90}
+      - {x: 129, y: 95}
+      - {x: 129, y: 116}
+      - {x: 109, y: 116}
+      - {x: 92, y: 105}
+      - {x: 78, y: 96}
+      - {x: 78, y: 63}
+      - {x: 80, y: 58}
+      - {x: 127, y: 58}
+      - {x: 129, y: 61}
+      - {x: 129, y: 77}
+      - {x: 128, y: 79}
+    - - {x: 175, y: 88}
+      - {x: 169, y: 82}
+      - {x: 173, y: 87}
+      - {x: 183, y: 96}
+      - {x: 183, y: 102}
+      - {x: 182, y: 107}
+      - {x: 177, y: 113}
+      - {x: 157, y: 113}
+      - {x: 143, y: 108}
+      - {x: 136, y: 86}
+      - {x: 134, y: 69}
+      - {x: 134, y: 58}
+      - {x: 180, y: 58}
+      - {x: 183, y: 61}
+      - {x: 183, y: 83}
+      - {x: 179, y: 91}
+    - - {x: 232, y: 84}
+      - {x: 231, y: 81}
+      - {x: 227, y: 81}
+      - {x: 229, y: 81}
+      - {x: 232, y: 85}
+      - {x: 234, y: 90}
+      - {x: 238, y: 89}
+      - {x: 242, y: 89}
+      - {x: 243, y: 113}
+      - {x: 203, y: 113}
+      - {x: 194, y: 89}
+      - {x: 194, y: 59}
+      - {x: 200, y: 58}
+      - {x: 220, y: 58}
+      - {x: 243, y: 60}
+      - {x: 243, y: 89}
+      - {x: 235, y: 89}
+    - - {x: -74, y: 113}
+      - {x: -102, y: 102}
+      - {x: -102, y: 72}
+      - {x: -98, y: 59}
+      - {x: -43, y: 59}
+      - {x: -43, y: 111}
+      - {x: -48, y: 113}
+    - - {x: 195, y: 96}
+      - {x: 192, y: 93}
+      - {x: 192, y: 91}
+      - {x: 195, y: 88}
+      - {x: 197, y: 88}
+      - {x: 200, y: 91}
+      - {x: 200, y: 93}
+      - {x: 197, y: 96}
+    - - {x: 176, y: 169}
+      - {x: 173, y: 166}
+      - {x: 176, y: 170}
+      - {x: 180, y: 176}
+      - {x: 178, y: 177}
+      - {x: 144, y: 177}
+      - {x: 129, y: 159}
+      - {x: 129, y: 117}
+      - {x: 177, y: 117}
+      - {x: 180, y: 121}
+      - {x: 180, y: 167}
+      - {x: 177, y: 169}
+    - - {x: -55, y: 148}
+      - {x: -57, y: 148}
+      - {x: -61, y: 144}
+      - {x: -62, y: 141}
+      - {x: -67, y: 141}
+      - {x: -65, y: 141}
+      - {x: -58, y: 147}
+      - {x: -51, y: 156}
+      - {x: -51, y: 167}
+      - {x: -55, y: 172}
+      - {x: -82, y: 172}
+      - {x: -88, y: 164}
+      - {x: -87, y: 160}
+      - {x: -83, y: 155}
+      - {x: -80, y: 155}
+      - {x: -90, y: 154}
+      - {x: -96, y: 142}
+      - {x: -91, y: 141}
+      - {x: -85, y: 140}
+      - {x: -84, y: 140}
+      - {x: -86, y: 140}
+      - {x: -91, y: 136}
+      - {x: -100, y: 124}
+      - {x: -100, y: 123}
+      - {x: -99, y: 120}
+      - {x: -90, y: 118}
+      - {x: -77, y: 118}
+      - {x: -53, y: 120}
+      - {x: -51, y: 125}
+      - {x: -51, y: 147}
+    - - {x: 63, y: 148}
+      - {x: 57, y: 142}
+      - {x: 61, y: 147}
+      - {x: 71, y: 156}
+      - {x: 71, y: 173}
+      - {x: 28, y: 173}
+      - {x: 15, y: 159}
+      - {x: 15, y: 129}
+      - {x: 21, y: 118}
+      - {x: 68, y: 118}
+      - {x: 71, y: 122}
+      - {x: 71, y: 141}
+      - {x: 67, y: 151}
+    - - {x: 124, y: 139}
+      - {x: 114, y: 147}
+      - {x: 112, y: 147}
+      - {x: 110, y: 145}
+      - {x: 107, y: 141}
+      - {x: 108, y: 146}
+      - {x: 112, y: 147}
+      - {x: 121, y: 150}
+      - {x: 125, y: 155}
+      - {x: 125, y: 176}
+      - {x: 105, y: 176}
+      - {x: 88, y: 165}
+      - {x: 76, y: 147}
+      - {x: 76, y: 118}
+      - {x: 108, y: 118}
+      - {x: 120, y: 119}
+      - {x: 124, y: 122}
+      - {x: 125, y: 126}
+      - {x: 125, y: 135}
+    - - {x: 188, y: 174}
+      - {x: 188, y: 118}
+      - {x: 246, y: 118}
+      - {x: 248, y: 126}
+      - {x: 248, y: 171}
+      - {x: 242, y: 174}
+    - - {x: -167, y: 150}
+      - {x: -170, y: 145}
+      - {x: -171, y: 142}
+      - {x: -176, y: 142}
+      - {x: -174, y: 142}
+      - {x: -168, y: 149}
+      - {x: -166, y: 152}
+      - {x: -160, y: 157}
+      - {x: -160, y: 173}
+      - {x: -193, y: 173}
+      - {x: -200, y: 159}
+      - {x: -192, y: 156}
+      - {x: -189, y: 156}
+      - {x: -199, y: 155}
+      - {x: -205, y: 143}
+      - {x: -200, y: 142}
+      - {x: -194, y: 141}
+      - {x: -193, y: 141}
+      - {x: -195, y: 141}
+      - {x: -199, y: 137}
+      - {x: -201, y: 134}
+      - {x: -209, y: 125}
+      - {x: -209, y: 119}
+      - {x: -162, y: 119}
+      - {x: -160, y: 121}
+      - {x: -160, y: 147}
+      - {x: -161, y: 148}
+    - - {x: -109, y: 149}
+      - {x: -113, y: 145}
+      - {x: -110, y: 160}
+      - {x: -105, y: 170}
+      - {x: -105, y: 172}
+      - {x: -110, y: 173}
+      - {x: -149, y: 173}
+      - {x: -157, y: 159}
+      - {x: -157, y: 125}
+      - {x: -156, y: 119}
+      - {x: -108, y: 119}
+      - {x: -105, y: 125}
+      - {x: -105, y: 150}
+      - {x: -106, y: 150}
+    - - {x: 6, y: 148}
+      - {x: 4, y: 148}
+      - {x: 0, y: 144}
+      - {x: -1, y: 141}
+      - {x: -5, y: 141}
+      - {x: -3, y: 141}
+      - {x: 0, y: 145}
+      - {x: 2, y: 150}
+      - {x: 6, y: 148}
+      - {x: 11, y: 156}
+      - {x: 8, y: 173}
+      - {x: -18, y: 173}
+      - {x: -44, y: 167}
+      - {x: -48, y: 157}
+      - {x: -48, y: 134}
+      - {x: -37, y: 119}
+      - {x: 2, y: 119}
+      - {x: 11, y: 122}
+      - {x: 11, y: 138}
+      - {x: 9, y: 147}
+    - - {x: -38, y: 158}
+      - {x: -42, y: 154}
+      - {x: -42, y: 150}
+      - {x: -38, y: 146}
+      - {x: -34, y: 146}
+      - {x: -30, y: 150}
+      - {x: -30, y: 154}
+      - {x: -34, y: 158}
+    - - {x: -199, y: 210}
+      - {x: -203, y: 206}
+      - {x: -196, y: 233}
+      - {x: -202, y: 234}
+      - {x: -238, y: 234}
+      - {x: -247, y: 219}
+      - {x: -247, y: 209}
+      - {x: -246, y: 206}
+      - {x: -247, y: 200}
+      - {x: -247, y: 180}
+      - {x: -195, y: 180}
+      - {x: -195, y: 209}
+      - {x: -196, y: 211}
+    - - {x: -152, y: 206}
+      - {x: -153, y: 203}
+      - {x: -158, y: 203}
+      - {x: -156, y: 203}
+      - {x: -150, y: 210}
+      - {x: -148, y: 213}
+      - {x: -142, y: 218}
+      - {x: -142, y: 234}
+      - {x: -173, y: 234}
+      - {x: -179, y: 226}
+      - {x: -178, y: 222}
+      - {x: -174, y: 217}
+      - {x: -171, y: 217}
+      - {x: -181, y: 216}
+      - {x: -187, y: 204}
+      - {x: -182, y: 203}
+      - {x: -176, y: 202}
+      - {x: -175, y: 202}
+      - {x: -186, y: 202}
+      - {x: -191, y: 187}
+      - {x: -191, y: 180}
+      - {x: -142, y: 180}
+      - {x: -142, y: 210}
+      - {x: -149, y: 211}
+    - - {x: -95, y: 210}
+      - {x: -99, y: 206}
+      - {x: -100, y: 203}
+      - {x: -104, y: 203}
+      - {x: -102, y: 203}
+      - {x: -96, y: 211}
+      - {x: -88, y: 211}
+      - {x: -88, y: 216}
+      - {x: -91, y: 235}
+      - {x: -112, y: 235}
+      - {x: -125, y: 230}
+      - {x: -133, y: 209}
+      - {x: -137, y: 185}
+      - {x: -137, y: 180}
+      - {x: -88, y: 180}
+      - {x: -88, y: 206}
+      - {x: -92, y: 211}
+    - - {x: -42, y: 210}
+      - {x: -48, y: 204}
+      - {x: -44, y: 209}
+      - {x: -34, y: 218}
+      - {x: -34, y: 232}
+      - {x: -43, y: 235}
+      - {x: -68, y: 235}
+      - {x: -83, y: 202}
+      - {x: -83, y: 180}
+      - {x: -41, y: 180}
+      - {x: -34, y: 183}
+      - {x: -34, y: 203}
+      - {x: -39, y: 210}
+    - - {x: 19, y: 201}
+      - {x: 9, y: 209}
+      - {x: 7, y: 209}
+      - {x: 5, y: 207}
+      - {x: 2, y: 203}
+      - {x: 3, y: 208}
+      - {x: 7, y: 209}
+      - {x: 16, y: 212}
+      - {x: 17, y: 214}
+      - {x: 20, y: 221}
+      - {x: 20, y: 228}
+      - {x: 17, y: 238}
+      - {x: 4, y: 238}
+      - {x: -15, y: 230}
+      - {x: -13, y: 222}
+      - {x: -9, y: 217}
+      - {x: -29, y: 232}
+      - {x: -29, y: 180}
+      - {x: 8, y: 180}
+      - {x: 15, y: 181}
+      - {x: 19, y: 184}
+      - {x: 20, y: 188}
+      - {x: 20, y: 197}
+    - - {x: 70, y: 232}
+      - {x: 67, y: 229}
+      - {x: 70, y: 233}
+      - {x: 71, y: 238}
+      - {x: 68, y: 240}
+      - {x: 54, y: 240}
+      - {x: 26, y: 227}
+      - {x: 26, y: 181}
+      - {x: 27, y: 180}
+      - {x: 70, y: 180}
+      - {x: 74, y: 181}
+      - {x: 74, y: 230}
+      - {x: 71, y: 232}
+    - - {x: 119, y: 209}
+      - {x: 117, y: 209}
+      - {x: 115, y: 207}
+      - {x: 112, y: 203}
+      - {x: 113, y: 208}
+      - {x: 117, y: 209}
+      - {x: 126, y: 212}
+      - {x: 130, y: 217}
+      - {x: 130, y: 238}
+      - {x: 110, y: 238}
+      - {x: 93, y: 227}
+      - {x: 81, y: 209}
+      - {x: 81, y: 180}
+      - {x: 128, y: 180}
+      - {x: 130, y: 183}
+      - {x: 130, y: 199}
+      - {x: 129, y: 201}
+    - - {x: 176, y: 210}
+      - {x: 170, y: 204}
+      - {x: 174, y: 209}
+      - {x: 184, y: 218}
+      - {x: 184, y: 224}
+      - {x: 183, y: 229}
+      - {x: 178, y: 235}
+      - {x: 158, y: 235}
+      - {x: 144, y: 230}
+      - {x: 137, y: 208}
+      - {x: 135, y: 191}
+      - {x: 135, y: 180}
+      - {x: 181, y: 180}
+      - {x: 184, y: 183}
+      - {x: 184, y: 205}
+      - {x: 180, y: 213}
+    - - {x: 232, y: 206}
+      - {x: 231, y: 203}
+      - {x: 227, y: 203}
+      - {x: 229, y: 203}
+      - {x: 232, y: 207}
+      - {x: 234, y: 212}
+      - {x: 238, y: 211}
+      - {x: 242, y: 211}
+      - {x: 243, y: 235}
+      - {x: 203, y: 235}
+      - {x: 194, y: 211}
+      - {x: 194, y: 181}
+      - {x: 200, y: 180}
+      - {x: 220, y: 180}
+      - {x: 243, y: 182}
+      - {x: 243, y: 211}
+      - {x: 235, y: 211}
+    physicsShape:
+    - - {x: 188, y: -195}
+      - {x: 188, y: -176}
+      - {x: 181, y: -174}
+      - {x: 165, y: -174}
+      - {x: 162, y: -177}
+      - {x: 156, y: -182}
+      - {x: 155, y: -192}
+      - {x: 139, y: -199}
+      - {x: 145, y: -218}
+      - {x: 136, y: -223}
+      - {x: 136, y: -227}
+      - {x: 137, y: -228}
+      - {x: 149, y: -230}
+      - {x: 168, y: -230}
+      - {x: 180, y: -227}
+      - {x: 185, y: -224}
+      - {x: 185, y: -215}
+    - - {x: 242, y: -206}
+      - {x: 241, y: -202}
+      - {x: 242, y: -196}
+      - {x: 242, y: -174}
+      - {x: 217, y: -174}
+      - {x: 210, y: -179}
+      - {x: 211, y: -192}
+      - {x: 195, y: -197}
+      - {x: 199, y: -216}
+      - {x: 194, y: -221}
+      - {x: 194, y: -228}
+      - {x: 232, y: -228}
+      - {x: 239, y: -225}
+      - {x: 241, y: -223}
+      - {x: 242, y: -221}
+    - - {x: 174, y: -200}
+      - {x: 175, y: -201}
+      - {x: 173, y: -202}
+      - {x: 174, y: -202}
+    - - {x: 8, y: -142}
+      - {x: -2, y: -150}
+      - {x: 1, y: -140}
+      - {x: 7, y: -134}
+      - {x: 3, y: -119}
+      - {x: -1, y: -114}
+      - {x: -7, y: -114}
+      - {x: -13, y: -118}
+      - {x: -25, y: -118}
+      - {x: -30, y: -131}
+      - {x: -34, y: -141}
+      - {x: -34, y: -146}
+      - {x: -25, y: -161}
+      - {x: -34, y: -169}
+      - {x: -33, y: -172}
+      - {x: -24, y: -174}
+      - {x: -11, y: -174}
+      - {x: 13, y: -172}
+      - {x: 15, y: -170}
+      - {x: 19, y: -157}
+      - {x: 19, y: -145}
+    - - {x: 72, y: -143}
+      - {x: 57, y: -149}
+      - {x: 64, y: -129}
+      - {x: 62, y: -117}
+      - {x: 57, y: -115}
+      - {x: 47, y: -115}
+      - {x: 34, y: -119}
+      - {x: 29, y: -126}
+      - {x: 24, y: -139}
+      - {x: 24, y: -145}
+      - {x: 29, y: -148}
+      - {x: 33, y: -161}
+      - {x: 24, y: -169}
+      - {x: 25, y: -172}
+      - {x: 34, y: -174}
+      - {x: 50, y: -174}
+      - {x: 65, y: -173}
+      - {x: 75, y: -171}
+      - {x: 75, y: -145}
+    - - {x: 133, y: -140}
+      - {x: 130, y: -141}
+      - {x: 126, y: -144}
+      - {x: 114, y: -146}
+      - {x: 123, y: -130}
+      - {x: 119, y: -115}
+      - {x: 115, y: -110}
+      - {x: 108, y: -110}
+      - {x: 85, y: -117}
+      - {x: 82, y: -128}
+      - {x: 82, y: -143}
+      - {x: 91, y: -157}
+      - {x: 82, y: -165}
+      - {x: 83, y: -168}
+      - {x: 92, y: -170}
+      - {x: 109, y: -170}
+      - {x: 123, y: -169}
+      - {x: 131, y: -166}
+      - {x: 134, y: -155}
+      - {x: 134, y: -143}
+    - - {x: 183, y: -137}
+      - {x: 180, y: -126}
+      - {x: 180, y: -118}
+      - {x: 175, y: -112}
+      - {x: 168, y: -112}
+      - {x: 150, y: -114}
+      - {x: 143, y: -120}
+      - {x: 147, y: -130}
+      - {x: 137, y: -135}
+      - {x: 137, y: -145}
+      - {x: 138, y: -146}
+      - {x: 148, y: -158}
+      - {x: 138, y: -163}
+      - {x: 139, y: -166}
+      - {x: 148, y: -168}
+      - {x: 161, y: -168}
+      - {x: 185, y: -166}
+      - {x: 186, y: -163}
+      - {x: 188, y: -150}
+      - {x: 188, y: -139}
+    - - {x: 234, y: -140}
+      - {x: 242, y: -126}
+      - {x: 243, y: -123}
+      - {x: 241, y: -114}
+      - {x: 238, y: -112}
+      - {x: 214, y: -112}
+      - {x: 207, y: -116}
+      - {x: 205, y: -130}
+      - {x: 193, y: -136}
+      - {x: 193, y: -144}
+      - {x: 198, y: -147}
+      - {x: 203, y: -151}
+      - {x: 195, y: -161}
+      - {x: 196, y: -164}
+      - {x: 205, y: -166}
+      - {x: 220, y: -166}
+      - {x: 242, y: -164}
+      - {x: 244, y: -162}
+      - {x: 244, y: -136}
+      - {x: 237, y: -135}
+    - - {x: 56, y: -79}
+      - {x: 57, y: -60}
+      - {x: 50, y: -56}
+      - {x: 32, y: -56}
+      - {x: 28, y: -57}
+      - {x: 20, y: -66}
+      - {x: 25, y: -76}
+      - {x: 18, y: -77}
+      - {x: 13, y: -79}
+      - {x: 10, y: -82}
+      - {x: 15, y: -100}
+      - {x: 9, y: -107}
+      - {x: 10, y: -110}
+      - {x: 19, y: -112}
+      - {x: 32, y: -112}
+      - {x: 56, y: -110}
+      - {x: 58, y: -108}
+      - {x: 58, y: -87}
+    - - {x: 99, y: -49}
+      - {x: 92, y: -49}
+      - {x: 90, y: -52}
+      - {x: 81, y: -56}
+      - {x: 76, y: -63}
+      - {x: 77, y: -67}
+      - {x: 82, y: -72}
+      - {x: 84, y: -72}
+      - {x: 83, y: -72}
+      - {x: 78, y: -70}
+      - {x: 72, y: -70}
+      - {x: 63, y: -73}
+      - {x: 62, y: -75}
+      - {x: 62, y: -81}
+      - {x: 72, y: -91}
+      - {x: 71, y: -107}
+      - {x: 75, y: -109}
+      - {x: 93, y: -109}
+      - {x: 115, y: -106}
+      - {x: 115, y: -77}
+      - {x: 103, y: -50}
+    - - {x: 176, y: -79}
+      - {x: 172, y: -78}
+      - {x: 170, y: -72}
+      - {x: 162, y: -49}
+      - {x: 158, y: -48}
+      - {x: 148, y: -48}
+      - {x: 138, y: -54}
+      - {x: 134, y: -66}
+      - {x: 125, y: -67}
+      - {x: 119, y: -73}
+      - {x: 119, y: -77}
+      - {x: 122, y: -85}
+      - {x: 141, y: -83}
+      - {x: 136, y: -91}
+      - {x: 135, y: -105}
+      - {x: 139, y: -108}
+      - {x: 154, y: -108}
+      - {x: 175, y: -105}
+      - {x: 177, y: -104}
+      - {x: 178, y: -83}
+      - {x: 178, y: -81}
+    - - {x: 228, y: -76}
+      - {x: 234, y: -70}
+      - {x: 234, y: -68}
+      - {x: 231, y: -65}
+      - {x: 227, y: -55}
+      - {x: 221, y: -47}
+      - {x: 213, y: -47}
+      - {x: 208, y: -49}
+      - {x: 198, y: -60}
+      - {x: 180, y: -65}
+      - {x: 180, y: -81}
+      - {x: 184, y: -85}
+      - {x: 187, y: -84}
+      - {x: 210, y: -82}
+      - {x: 204, y: -89}
+      - {x: 196, y: -101}
+      - {x: 197, y: -104}
+      - {x: 206, y: -106}
+      - {x: 220, y: -106}
+      - {x: 243, y: -104}
+      - {x: 247, y: -91}
+      - {x: 247, y: -79}
+      - {x: 245, y: -76}
+    - - {x: -137, y: -38}
+      - {x: -146, y: -39}
+      - {x: -138, y: -25}
+      - {x: -149, y: -23}
+      - {x: -149, y: -17}
+      - {x: -157, y: -9}
+      - {x: -173, y: -9}
+      - {x: -195, y: -29}
+      - {x: -195, y: -37}
+      - {x: -192, y: -44}
+      - {x: -185, y: -47}
+      - {x: -175, y: -43}
+      - {x: -174, y: -51}
+      - {x: -182, y: -63}
+      - {x: -181, y: -66}
+      - {x: -170, y: -68}
+      - {x: -164, y: -68}
+      - {x: -135, y: -66}
+      - {x: -132, y: -59}
+      - {x: -132, y: -39}
+      - {x: -134, y: -38}
+    - - {x: -52, y: -60}
+      - {x: -55, y: -57}
+      - {x: -72, y: -57}
+      - {x: -54, y: -57}
+      - {x: -51, y: -56}
+      - {x: -47, y: -53}
+      - {x: -47, y: -45}
+      - {x: -52, y: -30}
+      - {x: -73, y: -7}
+      - {x: -115, y: -7}
+      - {x: -130, y: -9}
+      - {x: -130, y: -54}
+      - {x: -118, y: -65}
+      - {x: -105, y: -66}
+      - {x: -80, y: -66}
+      - {x: -60, y: -64}
+      - {x: -54, y: -63}
+      - {x: -52, y: -61}
+    - - {x: 161, y: -36}
+      - {x: 174, y: -35}
+      - {x: 176, y: -30}
+      - {x: 176, y: -17}
+      - {x: 164, y: -5}
+      - {x: 147, y: -5}
+      - {x: 144, y: -6}
+      - {x: 116, y: -21}
+      - {x: 110, y: -34}
+      - {x: 110, y: -44}
+      - {x: 113, y: -45}
+      - {x: 147, y: -45}
+      - {x: 163, y: -42}
+      - {x: 164, y: -40}
+      - {x: 164, y: -39}
+    - - {x: 229, y: -36}
+      - {x: 242, y: -38}
+      - {x: 248, y: -36}
+      - {x: 248, y: -17}
+      - {x: 247, y: -13}
+      - {x: 232, y: -5}
+      - {x: 214, y: -5}
+      - {x: 184, y: -21}
+      - {x: 178, y: -34}
+      - {x: 178, y: -44}
+      - {x: 181, y: -45}
+      - {x: 215, y: -45}
+      - {x: 231, y: -42}
+      - {x: 232, y: -40}
+      - {x: 232, y: -39}
+    - - {x: 89, y: -35}
+      - {x: 96, y: -35}
+      - {x: 99, y: -34}
+      - {x: 103, y: -29}
+      - {x: 103, y: -22}
+      - {x: 87, y: -11}
+      - {x: 63, y: -11}
+      - {x: 42, y: -19}
+      - {x: 38, y: -32}
+      - {x: 38, y: -43}
+      - {x: 41, y: -44}
+      - {x: 70, y: -44}
+      - {x: 96, y: -42}
+      - {x: 98, y: -37}
+      - {x: 94, y: -35}
+    - - {x: 35, y: -20}
+      - {x: 29, y: -13}
+      - {x: 16, y: -10}
+      - {x: -6, y: -10}
+      - {x: -18, y: -13}
+      - {x: -34, y: -25}
+      - {x: -34, y: -41}
+      - {x: -29, y: -43}
+      - {x: 6, y: -43}
+      - {x: 28, y: -40}
+      - {x: 35, y: -31}
+    - - {x: -15, y: 26}
+      - {x: -19, y: 22}
+      - {x: -20, y: 19}
+      - {x: -24, y: 19}
+      - {x: -22, y: 19}
+      - {x: -16, y: 27}
+      - {x: -8, y: 27}
+      - {x: -8, y: 31}
+      - {x: -11, y: 51}
+      - {x: -30, y: 51}
+      - {x: -46, y: 47}
+      - {x: -53, y: 22}
+      - {x: -57, y: 2}
+      - {x: -57, y: -4}
+      - {x: -8, y: -4}
+      - {x: -8, y: 22}
+      - {x: -12, y: 27}
+    - - {x: 36, y: 24}
+      - {x: 46, y: 32}
+      - {x: 43, y: 47}
+      - {x: 39, y: 52}
+      - {x: 32, y: 52}
+      - {x: 19, y: 48}
+      - {x: -3, y: 42}
+      - {x: -6, y: 39}
+      - {x: -6, y: 35}
+      - {x: -5, y: 32}
+      - {x: 2, y: 26}
+      - {x: 8, y: 29}
+      - {x: 18, y: 19}
+      - {x: 2, y: 1}
+      - {x: 3, y: -2}
+      - {x: 10, y: -4}
+      - {x: 34, y: -4}
+      - {x: 50, y: -3}
+      - {x: 54, y: 22}
+      - {x: 54, y: 28}
+    - - {x: 110, y: 23}
+      - {x: 100, y: 23}
+      - {x: 111, y: 32}
+      - {x: 108, y: 47}
+      - {x: 104, y: 52}
+      - {x: 99, y: 52}
+      - {x: 94, y: 47}
+      - {x: 83, y: 49}
+      - {x: 63, y: 44}
+      - {x: 57, y: 36}
+      - {x: 57, y: 27}
+      - {x: 62, y: 18}
+      - {x: 66, y: 18}
+      - {x: 82, y: 19}
+      - {x: 67, y: 1}
+      - {x: 68, y: -2}
+      - {x: 75, y: -4}
+      - {x: 97, y: -4}
+      - {x: 115, y: -3}
+      - {x: 116, y: 3}
+      - {x: 119, y: 23}
+      - {x: 118, y: 27}
+    - - {x: -70, y: 27}
+      - {x: -74, y: 23}
+      - {x: -71, y: 26}
+      - {x: -63, y: 43}
+      - {x: -62, y: 45}
+      - {x: -62, y: 48}
+      - {x: -68, y: 55}
+      - {x: -82, y: 55}
+      - {x: -110, y: 37}
+      - {x: -110, y: 26}
+      - {x: -103, y: 18}
+      - {x: -95, y: 20}
+      - {x: -91, y: 23}
+      - {x: -87, y: 24}
+      - {x: -97, y: 19}
+      - {x: -103, y: 13}
+      - {x: -110, y: 3}
+      - {x: -110, y: -3}
+      - {x: -62, y: -3}
+      - {x: -62, y: 19}
+      - {x: -66, y: 30}
+    - - {x: -114, y: 16}
+      - {x: -114, y: 29}
+      - {x: -115, y: 29}
+      - {x: -132, y: 46}
+      - {x: -143, y: 51}
+      - {x: -161, y: 51}
+      - {x: -191, y: 46}
+      - {x: -195, y: 37}
+      - {x: -195, y: 25}
+      - {x: -191, y: 22}
+      - {x: -173, y: 22}
+      - {x: -184, y: 5}
+      - {x: -180, y: -2}
+      - {x: -146, y: -2}
+      - {x: -129, y: 2}
+      - {x: -137, y: 10}
+      - {x: -118, y: 6}
+    - - {x: 170, y: 27}
+      - {x: 168, y: 27}
+      - {x: 166, y: 25}
+      - {x: 163, y: 21}
+      - {x: 164, y: 26}
+      - {x: 168, y: 27}
+      - {x: 177, y: 30}
+      - {x: 181, y: 35}
+      - {x: 181, y: 56}
+      - {x: 161, y: 56}
+      - {x: 144, y: 45}
+      - {x: 137, y: 43}
+      - {x: 130, y: 44}
+      - {x: 124, y: 39}
+      - {x: 124, y: 23}
+      - {x: 125, y: 19}
+      - {x: 140, y: 16}
+      - {x: 131, y: 3}
+      - {x: 132, y: -2}
+      - {x: 178, y: -2}
+      - {x: 181, y: 2}
+      - {x: 181, y: 14}
+      - {x: 180, y: 19}
+    - - {x: 236, y: 30}
+      - {x: 230, y: 24}
+      - {x: 234, y: 29}
+      - {x: 244, y: 38}
+      - {x: 244, y: 44}
+      - {x: 243, y: 49}
+      - {x: 235, y: 55}
+      - {x: 221, y: 55}
+      - {x: 216, y: 54}
+      - {x: 211, y: 49}
+      - {x: 210, y: 46}
+      - {x: 210, y: 42}
+      - {x: 210, y: 44}
+      - {x: 205, y: 47}
+      - {x: 195, y: 49}
+      - {x: 187, y: 40}
+      - {x: 186, y: 32}
+      - {x: 186, y: 25}
+      - {x: 187, y: 23}
+      - {x: 202, y: 20}
+      - {x: 204, y: 12}
+      - {x: 195, y: 5}
+      - {x: 196, y: 2}
+      - {x: 206, y: 0}
+      - {x: 231, y: 0}
+      - {x: 244, y: 3}
+      - {x: 244, y: 22}
+      - {x: 239, y: 30}
+    - - {x: -169, y: 89}
+      - {x: -172, y: 88}
+      - {x: -176, y: 84}
+      - {x: -175, y: 89}
+      - {x: -172, y: 102}
+      - {x: -174, y: 106}
+      - {x: -178, y: 112}
+      - {x: -186, y: 112}
+      - {x: -203, y: 110}
+      - {x: -209, y: 104}
+      - {x: -221, y: 101}
+      - {x: -226, y: 99}
+      - {x: -226, y: 88}
+      - {x: -225, y: 79}
+      - {x: -204, y: 81}
+      - {x: -220, y: 63}
+      - {x: -217, y: 59}
+      - {x: -210, y: 58}
+      - {x: -177, y: 58}
+      - {x: -168, y: 62}
+      - {x: -168, y: 87}
+    - - {x: -114, y: 88}
+      - {x: -118, y: 84}
+      - {x: -115, y: 87}
+      - {x: -107, y: 104}
+      - {x: -106, y: 108}
+      - {x: -112, y: 116}
+      - {x: -119, y: 116}
+      - {x: -139, y: 104}
+      - {x: -155, y: 108}
+      - {x: -164, y: 96}
+      - {x: -165, y: 87}
+      - {x: -165, y: 83}
+      - {x: -162, y: 81}
+      - {x: -139, y: 81}
+      - {x: -135, y: 84}
+      - {x: -131, y: 85}
+      - {x: -141, y: 80}
+      - {x: -145, y: 76}
+      - {x: -155, y: 63}
+      - {x: -153, y: 60}
+      - {x: -145, y: 58}
+      - {x: -130, y: 58}
+      - {x: -108, y: 59}
+      - {x: -106, y: 62}
+      - {x: -106, y: 80}
+      - {x: -110, y: 91}
+    - - {x: 7, y: 110}
+      - {x: 4, y: 107}
+      - {x: 7, y: 111}
+      - {x: 8, y: 116}
+      - {x: 4, y: 118}
+      - {x: -5, y: 118}
+      - {x: -14, y: 110}
+      - {x: -33, y: 103}
+      - {x: -37, y: 101}
+      - {x: -37, y: 95}
+      - {x: -28, y: 84}
+      - {x: -30, y: 71}
+      - {x: -37, y: 65}
+      - {x: -37, y: 62}
+      - {x: -36, y: 60}
+      - {x: -30, y: 58}
+      - {x: 8, y: 58}
+      - {x: 11, y: 62}
+      - {x: 11, y: 108}
+      - {x: 8, y: 110}
+    - - {x: 59, y: 87}
+      - {x: 57, y: 87}
+      - {x: 55, y: 85}
+      - {x: 52, y: 81}
+      - {x: 53, y: 86}
+      - {x: 57, y: 87}
+      - {x: 66, y: 90}
+      - {x: 70, y: 95}
+      - {x: 70, y: 116}
+      - {x: 50, y: 116}
+      - {x: 33, y: 105}
+      - {x: 39, y: 96}
+      - {x: 31, y: 97}
+      - {x: 24, y: 92}
+      - {x: 21, y: 87}
+      - {x: 21, y: 77}
+      - {x: 22, y: 75}
+      - {x: 21, y: 71}
+      - {x: 21, y: 58}
+      - {x: 68, y: 58}
+      - {x: 70, y: 61}
+      - {x: 70, y: 77}
+      - {x: 69, y: 79}
+    - - {x: 118, y: 87}
+      - {x: 116, y: 87}
+      - {x: 114, y: 85}
+      - {x: 111, y: 81}
+      - {x: 112, y: 86}
+      - {x: 116, y: 87}
+      - {x: 125, y: 90}
+      - {x: 129, y: 95}
+      - {x: 129, y: 116}
+      - {x: 109, y: 116}
+      - {x: 92, y: 105}
+      - {x: 100, y: 95}
+      - {x: 98, y: 96}
+      - {x: 88, y: 102}
+      - {x: 78, y: 96}
+      - {x: 78, y: 78}
+      - {x: 85, y: 69}
+      - {x: 79, y: 63}
+      - {x: 80, y: 58}
+      - {x: 127, y: 58}
+      - {x: 129, y: 61}
+      - {x: 129, y: 77}
+      - {x: 128, y: 79}
+    - - {x: 175, y: 88}
+      - {x: 169, y: 82}
+      - {x: 173, y: 87}
+      - {x: 183, y: 96}
+      - {x: 183, y: 102}
+      - {x: 182, y: 107}
+      - {x: 173, y: 113}
+      - {x: 165, y: 113}
+      - {x: 155, y: 112}
+      - {x: 147, y: 105}
+      - {x: 147, y: 92}
+      - {x: 137, y: 86}
+      - {x: 135, y: 76}
+      - {x: 134, y: 63}
+      - {x: 134, y: 58}
+      - {x: 165, y: 58}
+      - {x: 176, y: 59}
+      - {x: 183, y: 62}
+      - {x: 183, y: 80}
+      - {x: 178, y: 88}
+    - - {x: 232, y: 84}
+      - {x: 231, y: 81}
+      - {x: 227, y: 81}
+      - {x: 229, y: 81}
+      - {x: 232, y: 85}
+      - {x: 234, y: 90}
+      - {x: 238, y: 89}
+      - {x: 242, y: 89}
+      - {x: 243, y: 113}
+      - {x: 203, y: 113}
+      - {x: 194, y: 89}
+      - {x: 194, y: 60}
+      - {x: 195, y: 60}
+      - {x: 203, y: 58}
+      - {x: 220, y: 58}
+      - {x: 243, y: 60}
+      - {x: 243, y: 89}
+      - {x: 235, y: 89}
+    - - {x: -43, y: 96}
+      - {x: -43, y: 102}
+      - {x: -44, y: 107}
+      - {x: -53, y: 113}
+      - {x: -60, y: 113}
+      - {x: -73, y: 111}
+      - {x: -78, y: 104}
+      - {x: -98, y: 103}
+      - {x: -102, y: 100}
+      - {x: -102, y: 88}
+      - {x: -100, y: 81}
+      - {x: -89, y: 83}
+      - {x: -83, y: 80}
+      - {x: -95, y: 65}
+      - {x: -93, y: 60}
+      - {x: -84, y: 59}
+      - {x: -52, y: 59}
+      - {x: -44, y: 63}
+      - {x: -45, y: 80}
+      - {x: -49, y: 91}
+    - - {x: -59, y: 83}
+      - {x: -58, y: 88}
+      - {x: -57, y: 91}
+      - {x: -58, y: 93}
+      - {x: -58, y: 81}
+      - {x: -54, y: 78}
+      - {x: -54, y: 80}
+    - - {x: 195, y: 96}
+      - {x: 192, y: 93}
+      - {x: 192, y: 91}
+      - {x: 195, y: 88}
+      - {x: 197, y: 88}
+      - {x: 200, y: 91}
+      - {x: 200, y: 93}
+      - {x: 197, y: 96}
+    - - {x: 176, y: 169}
+      - {x: 173, y: 166}
+      - {x: 176, y: 170}
+      - {x: 177, y: 175}
+      - {x: 173, y: 177}
+      - {x: 164, y: 177}
+      - {x: 158, y: 173}
+      - {x: 149, y: 163}
+      - {x: 135, y: 164}
+      - {x: 129, y: 154}
+      - {x: 129, y: 147}
+      - {x: 136, y: 144}
+      - {x: 142, y: 140}
+      - {x: 132, y: 122}
+      - {x: 133, y: 119}
+      - {x: 139, y: 117}
+      - {x: 177, y: 117}
+      - {x: 180, y: 121}
+      - {x: 180, y: 167}
+      - {x: 177, y: 169}
+    - - {x: -55, y: 148}
+      - {x: -57, y: 148}
+      - {x: -61, y: 144}
+      - {x: -62, y: 141}
+      - {x: -67, y: 141}
+      - {x: -65, y: 141}
+      - {x: -58, y: 147}
+      - {x: -51, y: 156}
+      - {x: -51, y: 167}
+      - {x: -55, y: 172}
+      - {x: -82, y: 172}
+      - {x: -88, y: 164}
+      - {x: -87, y: 160}
+      - {x: -83, y: 155}
+      - {x: -80, y: 155}
+      - {x: -90, y: 154}
+      - {x: -96, y: 142}
+      - {x: -91, y: 141}
+      - {x: -85, y: 140}
+      - {x: -84, y: 140}
+      - {x: -86, y: 140}
+      - {x: -91, y: 136}
+      - {x: -100, y: 124}
+      - {x: -100, y: 123}
+      - {x: -99, y: 120}
+      - {x: -90, y: 118}
+      - {x: -77, y: 118}
+      - {x: -53, y: 120}
+      - {x: -51, y: 125}
+      - {x: -51, y: 147}
+    - - {x: 63, y: 148}
+      - {x: 57, y: 142}
+      - {x: 61, y: 147}
+      - {x: 71, y: 156}
+      - {x: 71, y: 162}
+      - {x: 70, y: 167}
+      - {x: 62, y: 173}
+      - {x: 47, y: 173}
+      - {x: 43, y: 172}
+      - {x: 35, y: 164}
+      - {x: 37, y: 152}
+      - {x: 29, y: 161}
+      - {x: 22, y: 162}
+      - {x: 15, y: 157}
+      - {x: 15, y: 147}
+      - {x: 28, y: 135}
+      - {x: 22, y: 123}
+      - {x: 23, y: 120}
+      - {x: 30, y: 118}
+      - {x: 51, y: 118}
+      - {x: 65, y: 119}
+      - {x: 71, y: 122}
+      - {x: 71, y: 140}
+      - {x: 66, y: 148}
+    - - {x: 124, y: 139}
+      - {x: 114, y: 147}
+      - {x: 112, y: 147}
+      - {x: 110, y: 145}
+      - {x: 107, y: 141}
+      - {x: 108, y: 146}
+      - {x: 112, y: 147}
+      - {x: 121, y: 150}
+      - {x: 125, y: 155}
+      - {x: 125, y: 176}
+      - {x: 105, y: 176}
+      - {x: 88, y: 165}
+      - {x: 86, y: 157}
+      - {x: 79, y: 152}
+      - {x: 76, y: 147}
+      - {x: 76, y: 118}
+      - {x: 108, y: 118}
+      - {x: 120, y: 119}
+      - {x: 124, y: 122}
+      - {x: 125, y: 126}
+      - {x: 125, y: 135}
+    - - {x: 239, y: 145}
+      - {x: 229, y: 145}
+      - {x: 240, y: 154}
+      - {x: 237, y: 169}
+      - {x: 233, y: 174}
+      - {x: 226, y: 174}
+      - {x: 213, y: 170}
+      - {x: 191, y: 164}
+      - {x: 188, y: 161}
+      - {x: 188, y: 157}
+      - {x: 189, y: 154}
+      - {x: 196, y: 148}
+      - {x: 202, y: 151}
+      - {x: 211, y: 141}
+      - {x: 195, y: 124}
+      - {x: 197, y: 120}
+      - {x: 204, y: 118}
+      - {x: 226, y: 118}
+      - {x: 244, y: 119}
+      - {x: 247, y: 124}
+      - {x: 248, y: 145}
+      - {x: 248, y: 151}
+    - - {x: -167, y: 150}
+      - {x: -170, y: 145}
+      - {x: -171, y: 142}
+      - {x: -176, y: 142}
+      - {x: -174, y: 142}
+      - {x: -168, y: 149}
+      - {x: -166, y: 152}
+      - {x: -160, y: 157}
+      - {x: -160, y: 173}
+      - {x: -193, y: 173}
+      - {x: -200, y: 159}
+      - {x: -192, y: 156}
+      - {x: -189, y: 156}
+      - {x: -199, y: 155}
+      - {x: -205, y: 143}
+      - {x: -200, y: 142}
+      - {x: -194, y: 141}
+      - {x: -193, y: 141}
+      - {x: -195, y: 141}
+      - {x: -199, y: 137}
+      - {x: -201, y: 134}
+      - {x: -209, y: 125}
+      - {x: -209, y: 119}
+      - {x: -162, y: 119}
+      - {x: -160, y: 121}
+      - {x: -160, y: 147}
+      - {x: -161, y: 148}
+    - - {x: -106, y: 150}
+      - {x: -109, y: 149}
+      - {x: -113, y: 145}
+      - {x: -110, y: 160}
+      - {x: -110, y: 163}
+      - {x: -114, y: 173}
+      - {x: -142, y: 173}
+      - {x: -157, y: 157}
+      - {x: -157, y: 148}
+      - {x: -156, y: 145}
+      - {x: -141, y: 142}
+      - {x: -156, y: 125}
+      - {x: -154, y: 121}
+      - {x: -147, y: 119}
+      - {x: -116, y: 119}
+      - {x: -106, y: 123}
+      - {x: -105, y: 133}
+      - {x: -105, y: 147}
+    - - {x: 6, y: 148}
+      - {x: 4, y: 148}
+      - {x: 0, y: 144}
+      - {x: -1, y: 141}
+      - {x: -5, y: 141}
+      - {x: -3, y: 141}
+      - {x: 0, y: 145}
+      - {x: 2, y: 150}
+      - {x: 6, y: 148}
+      - {x: 11, y: 156}
+      - {x: 8, y: 173}
+      - {x: -18, y: 173}
+      - {x: -44, y: 167}
+      - {x: -48, y: 157}
+      - {x: -48, y: 140}
+      - {x: -33, y: 135}
+      - {x: -38, y: 123}
+      - {x: -37, y: 119}
+      - {x: 2, y: 119}
+      - {x: 11, y: 122}
+      - {x: 11, y: 138}
+      - {x: 9, y: 147}
+    - - {x: -39, y: 149}
+      - {x: -39, y: 155}
+      - {x: -34, y: 157}
+      - {x: -32, y: 155}
+      - {x: -31, y: 151}
+      - {x: -35, y: 148}
+    - - {x: -38, y: 158}
+      - {x: -42, y: 154}
+      - {x: -42, y: 150}
+      - {x: -38, y: 146}
+      - {x: -34, y: 146}
+      - {x: -30, y: 150}
+      - {x: -30, y: 154}
+      - {x: -34, y: 158}
+    - - {x: -196, y: 211}
+      - {x: -199, y: 210}
+      - {x: -203, y: 206}
+      - {x: -200, y: 220}
+      - {x: -201, y: 228}
+      - {x: -205, y: 234}
+      - {x: -232, y: 234}
+      - {x: -247, y: 218}
+      - {x: -247, y: 209}
+      - {x: -246, y: 206}
+      - {x: -229, y: 203}
+      - {x: -245, y: 185}
+      - {x: -244, y: 182}
+      - {x: -237, y: 180}
+      - {x: -215, y: 180}
+      - {x: -198, y: 182}
+      - {x: -196, y: 185}
+      - {x: -195, y: 193}
+      - {x: -195, y: 209}
+    - - {x: -152, y: 206}
+      - {x: -153, y: 203}
+      - {x: -158, y: 203}
+      - {x: -156, y: 203}
+      - {x: -150, y: 210}
+      - {x: -148, y: 213}
+      - {x: -142, y: 218}
+      - {x: -142, y: 234}
+      - {x: -173, y: 234}
+      - {x: -179, y: 226}
+      - {x: -178, y: 222}
+      - {x: -174, y: 217}
+      - {x: -171, y: 217}
+      - {x: -181, y: 216}
+      - {x: -187, y: 204}
+      - {x: -182, y: 203}
+      - {x: -176, y: 202}
+      - {x: -175, y: 202}
+      - {x: -186, y: 202}
+      - {x: -191, y: 187}
+      - {x: -191, y: 180}
+      - {x: -142, y: 180}
+      - {x: -142, y: 210}
+      - {x: -149, y: 211}
+    - - {x: -95, y: 210}
+      - {x: -99, y: 206}
+      - {x: -100, y: 203}
+      - {x: -104, y: 203}
+      - {x: -102, y: 203}
+      - {x: -96, y: 211}
+      - {x: -88, y: 211}
+      - {x: -88, y: 216}
+      - {x: -91, y: 235}
+      - {x: -112, y: 235}
+      - {x: -125, y: 230}
+      - {x: -133, y: 209}
+      - {x: -137, y: 185}
+      - {x: -137, y: 180}
+      - {x: -88, y: 180}
+      - {x: -88, y: 206}
+      - {x: -92, y: 211}
+    - - {x: -42, y: 210}
+      - {x: -48, y: 204}
+      - {x: -44, y: 209}
+      - {x: -34, y: 218}
+      - {x: -34, y: 224}
+      - {x: -35, y: 229}
+      - {x: -44, y: 235}
+      - {x: -52, y: 235}
+      - {x: -62, y: 234}
+      - {x: -70, y: 227}
+      - {x: -70, y: 214}
+      - {x: -79, y: 207}
+      - {x: -80, y: 201}
+      - {x: -76, y: 192}
+      - {x: -83, y: 185}
+      - {x: -82, y: 181}
+      - {x: -73, y: 180}
+      - {x: -41, y: 180}
+      - {x: -34, y: 183}
+      - {x: -34, y: 203}
+      - {x: -39, y: 210}
+    - - {x: 19, y: 201}
+      - {x: 9, y: 209}
+      - {x: 7, y: 209}
+      - {x: 5, y: 207}
+      - {x: 2, y: 203}
+      - {x: 3, y: 208}
+      - {x: 7, y: 209}
+      - {x: 16, y: 212}
+      - {x: 17, y: 214}
+      - {x: 20, y: 221}
+      - {x: 20, y: 228}
+      - {x: 17, y: 238}
+      - {x: 4, y: 238}
+      - {x: -15, y: 230}
+      - {x: -13, y: 222}
+      - {x: -9, y: 217}
+      - {x: -29, y: 232}
+      - {x: -29, y: 180}
+      - {x: 8, y: 180}
+      - {x: 15, y: 181}
+      - {x: 19, y: 184}
+      - {x: 20, y: 188}
+      - {x: 20, y: 197}
+    - - {x: 70, y: 232}
+      - {x: 67, y: 229}
+      - {x: 70, y: 233}
+      - {x: 71, y: 238}
+      - {x: 67, y: 240}
+      - {x: 56, y: 240}
+      - {x: 51, y: 238}
+      - {x: 26, y: 222}
+      - {x: 26, y: 214}
+      - {x: 40, y: 208}
+      - {x: 35, y: 199}
+      - {x: 28, y: 189}
+      - {x: 26, y: 185}
+      - {x: 27, y: 182}
+      - {x: 33, y: 180}
+      - {x: 71, y: 180}
+      - {x: 74, y: 184}
+      - {x: 74, y: 230}
+      - {x: 71, y: 232}
+    - - {x: 119, y: 209}
+      - {x: 117, y: 209}
+      - {x: 115, y: 207}
+      - {x: 112, y: 203}
+      - {x: 113, y: 208}
+      - {x: 117, y: 209}
+      - {x: 126, y: 212}
+      - {x: 130, y: 217}
+      - {x: 130, y: 238}
+      - {x: 110, y: 238}
+      - {x: 93, y: 227}
+      - {x: 99, y: 218}
+      - {x: 91, y: 219}
+      - {x: 84, y: 214}
+      - {x: 81, y: 209}
+      - {x: 81, y: 199}
+      - {x: 82, y: 197}
+      - {x: 81, y: 193}
+      - {x: 81, y: 180}
+      - {x: 128, y: 180}
+      - {x: 130, y: 183}
+      - {x: 130, y: 199}
+      - {x: 129, y: 201}
+    - - {x: 176, y: 210}
+      - {x: 170, y: 204}
+      - {x: 174, y: 209}
+      - {x: 184, y: 218}
+      - {x: 184, y: 224}
+      - {x: 183, y: 229}
+      - {x: 174, y: 235}
+      - {x: 166, y: 235}
+      - {x: 156, y: 234}
+      - {x: 148, y: 227}
+      - {x: 148, y: 214}
+      - {x: 138, y: 208}
+      - {x: 136, y: 198}
+      - {x: 135, y: 185}
+      - {x: 135, y: 180}
+      - {x: 166, y: 180}
+      - {x: 177, y: 181}
+      - {x: 184, y: 184}
+      - {x: 184, y: 202}
+      - {x: 179, y: 210}
+    - - {x: 232, y: 206}
+      - {x: 231, y: 203}
+      - {x: 227, y: 203}
+      - {x: 229, y: 203}
+      - {x: 232, y: 207}
+      - {x: 234, y: 212}
+      - {x: 238, y: 211}
+      - {x: 242, y: 211}
+      - {x: 243, y: 235}
+      - {x: 203, y: 235}
+      - {x: 194, y: 211}
+      - {x: 194, y: 182}
+      - {x: 195, y: 182}
+      - {x: 203, y: 180}
+      - {x: 220, y: 180}
+      - {x: 243, y: 182}
+      - {x: 243, y: 211}
+      - {x: 235, y: 211}
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
