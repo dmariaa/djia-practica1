@@ -54,21 +54,11 @@ namespace Practica1
             if(qtable==null)
             {
                 Learn(boardInfo);
+                qtable.SaveToCsv("test.csv");
             }
 
             // Proxima celda aleatoria
-            Locomotion.MoveDirection nextDirection = (Locomotion.MoveDirection) qtable.getNextSavedDirection(currentPos);
-            
-            /*
-            CellInfo nextCell = getAleatNavigableCell(currentPos, boardInfo, out nextDirection);
-
-            // Recalculo de Q
-            float r = GetReward(nextCell);
-            float Q = qtable[currentPos, nextDirection];
-            float nextQMax = qtable.getHighestQAction(nextCell);
-            qtable[currentPos, nextDirection] = (1 - alpha) * Q + alpha * (r + gamma * nextQMax);
-            */
-            
+            Locomotion.MoveDirection nextDirection = (Locomotion.MoveDirection) qtable.GetNextSavedDirection(currentPos);
             return nextDirection;
         }
 
@@ -80,6 +70,8 @@ namespace Practica1
         {
             CellInfo nextState, initialState;
             qtable = new QTable(boardInfo);
+            float maxQValue = float.MinValue;
+            float totalQValue = 0f;
 
             for (int episode = 0; episode < 10000; episode++)
             {
@@ -92,23 +84,36 @@ namespace Practica1
 
                 do
                 {
+                    // Elegimos una dirección aleatoria
                     int randomDirection = Random.Range(0, 4);
+
+                    // Valor Q actual para la posición (estado) actual y la nueva dirección (accion) a tomar
+                    float Q = qtable[initialState, (Locomotion.MoveDirection)randomDirection];
+                    
+                    // Calculamos recompensa para la próxima posición (estado)
                     nextState = initialState.WalkableNeighbours(boardInfo)[randomDirection];
                     float r = GetReward(nextState);
-                    float Q = qtable[initialState, (Locomotion.MoveDirection)randomDirection];
-
-                    float nextQMax = nextState != null ? qtable.getHighestQAction(nextState) : 0;
-                    qtable[initialState, (Locomotion.MoveDirection)randomDirection] = (1 - alpha) * Q + alpha * (r + gamma * nextQMax);
-
+                    
+                    // Máximo valor de Q para el próximo estado
+                    float nextQMax = nextState != null ? qtable.GetHighestQAction(nextState) : 0;
+                    
+                    // Actualizamos tabla Q
+                    float QValue = (1 - alpha) * Q + alpha * (r + gamma * nextQMax);
+                    qtable[initialState, (Locomotion.MoveDirection)randomDirection] = QValue;
+                    totalQValue += QValue;
+                    maxQValue = QValue > maxQValue ? QValue : maxQValue;
+                    
+                    // Nos desplazamos al siguiente estado
+                    initialState = nextState;
+                    
+                    // Condición de parada, hemos ido a una celda no navegable o hemos llegado al final
                     if (r == -1 || r == 100)
                     {
                         endOfEpisode = true;
                     }
-
-                    initialState = nextState;
                 } while (!endOfEpisode);
                 
-                Debug.LogFormat("Episode {0} finished", episode);
+                Debug.LogFormat("Episode {0} finished - MaxQ: {1} - TotalQ: {2}", episode, maxQValue, totalQValue);
             }
         }
     }
