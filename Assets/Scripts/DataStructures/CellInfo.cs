@@ -73,7 +73,7 @@ namespace Assets.Scripts.DataStructures
         public CellInfo[] WalkableNeighbours(BoardInfo board)
         {
             var neighbours = new CellInfo[4];
-            //UP
+            //Up
             neighbours[0] = (this.RowId < (board.NumRows -1) && board.CellInfos[this.ColumnId, this.RowId + 1].Walkable)
                 ? board.CellInfos[this.ColumnId, this.RowId + 1]
                 : null;
