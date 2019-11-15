@@ -45,10 +45,10 @@ namespace Practica1
         {
             if (loadingPanel)
             {
+                subTitle = loadingPanel.transform.Find("Subtitle").GetComponent<Text>();
                 progressBar = loadingPanel.transform.Find("ProgressBar").GetComponent<Slider>();
                 progressText = progressBar.transform.Find("PctText").GetComponent<Text>();
                 iterationsText = progressBar.transform.Find("IterationsText").GetComponent<Text>();
-                subTitle = loadingPanel.transform.Find("Subtitle").GetComponent<Text>();
             }
         }
         
